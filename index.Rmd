@@ -1,6 +1,10 @@
+---
+title: Tomás Borrella's website
+---
+
 ## About
 
-work in progress
+*work in progress*
 
 ## Interests
 
@@ -10,7 +14,7 @@ work in progress
 
 ## Projects
 
-work in progress
+*work in progress*
 
 ## Profiles 
 
