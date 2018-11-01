@@ -1,5 +1,8 @@
 ---
 title: Tomás Borrella's website
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ## About
