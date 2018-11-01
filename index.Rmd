@@ -1,30 +1,22 @@
----
-title: "Tomás Borrella's website"
-author: "Tomás Borrella"
-date: "1/11/2018"
-output: html_document
----
+## About
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+work in progress
 
-## R Markdown
+## Interests
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* Interest 1
+* Interest 2
+* etc
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Projects
 
-```{r cars}
-summary(cars)
-```
+work in progress
 
-## Including Plots
+## Profiles 
 
-You can also embed plots, for example:
+* [LinkedIn](https://www.linkedin.com/in/tomasborrella/)
+* [GitHub](http://github.com/tomasborrella)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Contact
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [tomasborrella@gmail.com](mailto:tomasborrella@gmail.com)
