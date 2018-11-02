@@ -8,6 +8,8 @@ output:
     toc_float: true
 ---
 
+![](img/TomasBorrella.jpg){width=100px}
+
 ## About
 
 *work in progress*
